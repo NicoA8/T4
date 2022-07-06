@@ -1,0 +1,23 @@
+:root {
+  --bg1: #ac1a00;
+  --bg2: #000000;
+  --font: "Montserrat", sans-serif;
+  --h1fontsize: 3.5rem;
+  --h1fontweight: 900;
+  --h1padding: 0.5rem 0rem;
+  --menuradius: 0rem;
+  --menuhovercolor: #000;
+  --menuhoverborder: 0.4rem solid #ff2a03;
+  --h2fontsize: 2rem;
+  --h2width: 20rem;
+  --btnvideocolor: #fff;
+  --btnvideoborder: 0rem;
+  --btnvideobg: #000;
+  --btnhoverbg: #ff2a03;
+  --imgwidth: 17rem;
+  --imgheight: 15rem;
+  --imgw600: 13rem;
+  --imgh600: 12rem;
+  --imgw400: 10rem;
+  --imgh400: 9rem;
+}

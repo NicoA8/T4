@@ -1,0 +1,27 @@
+:root {
+  --bg1: #fff;
+  --bg2: #d5eaff;
+  --font: "Work Sans", sans-serif;
+  --h1fontsize: 3.5rem;
+  --h1fontweight: 900;
+  --h1padding: 0.5rem 0rem;
+  --menuradius: 3rem;
+  --menuhovercolor: #425979;
+  --menuhoverborder: 0.4rem solid #71cf89;
+  --h2fontsize: 2.5rem;
+  --h2width: 12rem;
+  --btnvideocolor: #000;
+  --btnvideoborder: 3rem;
+  --btnvideobg: #fcc840;
+  --btnhoverbg: #ee8038;
+  --imgwidth: 18rem;
+  --imgheight: 17rem;
+  --imgw600: 13rem;
+  --imgh600: 12rem;
+  --imgw400: 10rem;
+  --imgh400: 9rem;
+}
+
+h1.title {
+  font-family: "Montserrat", sans-serif;
+}
